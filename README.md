@@ -25,6 +25,7 @@ Once the file has been executed a new file will be created at c:\TMP\systemdata.
 
 c:\TMP\systemdata.cfg will contain the following information:
 
-Hostname, OS information, BIOS, physical hardware, recent hotfixes, local users and groups, local privilege information, complete network information (interfaces, IP v4/v6 stack, routes, active connections) WiFi profiles (profile name, SSID, Connection, Encryption, Pre-Shared Keys), Current running Processes, writable directory information, any locally stored clear-text credential strings.
+Hostname, OS information, BIOS, physical hardware, recent hotfixes, local users and groups, local privilege information, complete network information (interfaces, IP v4/v6 stack, routes, active connections) WiFi profiles (profile name, SSID, Connection, Encryption, Pre-Shared Keys), Current running Processes, writable directory information, local firewall profiles, local share information, any locally stored clear-text credential strings.
 
-Special thanks to 0xsp for syntax and recommended commandlines for reconnaissance
+Special thanks to 0xsp & Morph3Sec for syntax and recommended commandlines for reconnaissance
+https://0xsp.com/offensive/red-ops-techniques/red-team-cheatsheet
