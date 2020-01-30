@@ -1,4 +1,7 @@
 # RedTeamRecon
 Red Team Reconnaissance Tool for Windows systems
 
-Red Team Recon is a red team tool to be run on Windows Systems
+Red Team Recon is a red team tool to be run on Windows Systems for reonnaissance gathering
+This tool will require escalated privileges
+To be used for demonstration purposes only
+
