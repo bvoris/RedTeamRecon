@@ -23,4 +23,8 @@ type cmd < recon.txt
 
 Once the file has been executed a new file will be created at c:\TMP\systemdata.cfg with detailed host information.
 
+c:\TMP\systemdata.cfg will contain the following information:
+
+Hostname, OS information, BIOS, physical hardware, recent hotfixes, local users and groups, local privilege information, complete network information (interfaces, IP v4/v6 stack, routes, active connections) WiFi profiles (profile name, SSID, Connection, Encryption, Pre-Shared Keys), Current running Processes, writable directory information, any locally stored clear-text credential strings.
+
 Special thanks to 0xsp for syntax and recommended commandlines for reconnaissance
