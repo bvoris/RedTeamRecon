@@ -7,4 +7,20 @@ This tool will require escalated privileges
 
 To be used for demonstration purposes only
 
+How to use RedTeamRecon
+
+Download the recon.txt file to the local machine
+
+Rename the file to recon.bat and run with escalated privilege command prompt
+
+If file cannot be loaded as a batch file:
+
+Open a Command Prompt
+
+Go to the file location
+
+type cmd < recon.txt 
+
+
+
 Special thanks to 0xsp for syntax and recommended commandlines for reconnaissance
