@@ -21,6 +21,6 @@ Go to the file location
 
 type cmd < recon.txt 
 
-
+Once the file has been executed a new file will be created at c:\TMP\systemdata.cfg with detailed host information.
 
 Special thanks to 0xsp for syntax and recommended commandlines for reconnaissance
