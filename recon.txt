@@ -75,9 +75,22 @@ ECHO Credential Information >> asysteminfo.txt
 ECHO ------------------------------------ >> asysteminfo.txt
 cmdkey /list >> asysteminfo.txt
 
+ECHO Gathering Windows Firewall Information...
+ECHO ------------------------------------ >> asysteminfo.txt
+ECHO Windows Firewall Information >> asysteminfo.txt
+ECHO ------------------------------------ >> asysteminfo.txt
+Netsh Advfirewall show allprofiles >> asysteminfo.txt
+
+ECHO Gathering Local Share Information...
+ECHO ------------------------------------ >> asysteminfo.txt
+ECHO Local Share Information >> asysteminfo.txt
+ECHO ------------------------------------ >> asysteminfo.txt
+wmic share get /format:list >> asysteminfo.txt
+
 ECHO Merging File Sets...
 Copy c:\TMP\*.* c:\TMP\systemdata.cfg
 
 ECHO Deleting Unnessary File Sets...
 DEL c:\TMP\*.txt
 DEL c:\TMP\*.xml
+exit
