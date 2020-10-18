@@ -1,4 +1,14 @@
 # RedTeamRecon
+Created by: Brad Voris
+
+<img alt="GitHub" src="https://img.shields.io/github/license/bvoris/RedTeamRecon">
+<img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/bvoris/RedTeamRecon">
+<img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/bvoris/RedTeamRecon/total">
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/bvoris/RedTeamRecon">
+<img alt="GitHub language count" src="https://img.shields.io/github/languages/count/bvoris/RedTeamRecon">
+<img alt="GitHub issues" src="https://img.shields.io/github/issues/bvoris/RedTeamRecon">
+<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/bvoris/RedTeamRecon">
+
 Red Team Reconnaissance Tool for Windows systems
 
 Red Team Recon is a red team tool to be run on Windows Systems for reconnaissance gathering
