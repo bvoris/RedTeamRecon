@@ -1,6 +1,5 @@
 # RedTeamRecon
-Created by: Brad Voris
-
+Created by: Brad Voris<BR />
 <img alt="GitHub" src="https://img.shields.io/github/license/bvoris/RedTeamRecon">
 <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/bvoris/RedTeamRecon">
 <img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/bvoris/RedTeamRecon/total">
