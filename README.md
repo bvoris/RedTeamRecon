@@ -20,6 +20,8 @@ RedTeamRecon will gather the following information:
 
 Hostname, OS information, BIOS, physical hardware, recent hotfixes, local users and groups, local privilege information, complete network information (interfaces, IP v4/v6 stack, routes, active connections) WiFi profiles (profile name, SSID, Connection, Encryption, Pre-Shared Keys), Current running Processes, writable directory information, local firewall profiles, local share information, any locally stored clear-text credential strings.
 
+***Updated 1/25/2022 with cmdkey /savecred /list /pass
+
 How to use RedTeamRecon
 
 Download the recon.txt file to the local machine
