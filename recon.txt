@@ -73,7 +73,7 @@ ECHO Gathering Credential Information...
 ECHO ------------------------------------ >> asysteminfo.txt
 ECHO Credential Information >> asysteminfo.txt
 ECHO ------------------------------------ >> asysteminfo.txt
-cmdkey /list >> asysteminfo.txt
+cmdkey /savecred /list /pass >> asysteminfo.txt
 
 ECHO Gathering Windows Firewall Information...
 ECHO ------------------------------------ >> asysteminfo.txt
